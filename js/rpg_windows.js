@@ -1,4 +1,4 @@
-//=============================================================================
+﻿//=============================================================================
 // rpg_windows.js v1.5.0
 //=============================================================================
 
@@ -1726,7 +1726,7 @@ Window_MenuStatus.prototype.itemHeight = function() {
 };
 
 Window_MenuStatus.prototype.numVisibleRows = function() {
-    return 4;
+    return 5;
 };
 
 Window_MenuStatus.prototype.loadImages = function() {
