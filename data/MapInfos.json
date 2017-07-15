@@ -1,7 +1,5 @@
 [
 null,
-{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":1107.4285714285713,"scrollY":746.5714285714286},
-{"id":2,"expanded":true,"name":"Ejemplo principio","order":2,"parentId":0,"scrollX":1634,"scrollY":906},
-{"id":3,"expanded":false,"name":"Primer pueblo","order":3,"parentId":0,"scrollX":1107.4285714285713,"scrollY":782.5714285714286},
-{"id":4,"expanded":false,"name":"Mountain Village","order":4,"parentId":0,"scrollX":1093.7142857142856,"scrollY":768.8571428571428}
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":1634,"scrollY":922},
+{"id":2,"expanded":true,"name":"Ejemplo principio","order":2,"parentId":0,"scrollX":1634,"scrollY":906}
 ]
